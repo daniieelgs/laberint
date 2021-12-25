@@ -9,7 +9,7 @@ automática
 * Para iniciar el juego en Windows, ejecute 'Joc Laberint.bat' o inicie una terminal y ejecute  `"Joc Laberint.bat"`
 > Linux
 * Para inicar el juego en Linux, ejecute 'Joc Laberint.sh' o inicie una terminal y ejecute `./Joc\ Laberint.sh`. Si sale un error de 'Permiso denegado' ejecute `chmod +rwx Joc\ Laberint.sh` y vuelva a intentarlo
-**Version mínima del JSE: `16.0.2`**
+</br></br>**Version mínima del JSE: `16.0.2`**
 
 ## Quick Usage
 * 'P': Posicion del jugador
