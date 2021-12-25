@@ -48,3 +48,6 @@ Al finalizar cada laberinto se le mostrará el nivel de satisfacción en funció
 > **La interfaz puede ir con cierto delay en laberintos grandes**
 * 'debug': Activa o desactiva el modo debug de la GUI
 * 'MAKER': Creador del juego
+
+## License
+[License](https://github.com/daniieelgs/laberint/blob/master/LICENSE)
